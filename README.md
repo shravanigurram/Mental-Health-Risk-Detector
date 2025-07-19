@@ -36,7 +36,6 @@ This app uses a dataset derived from **Kaggle - Mental Health in Tech Survey** a
 
 ## 🌐 Live App
 
-👉 [Launch on Streamlit]([https://your-deployed-app-url.streamlit.app](https://mental-health-risk-detector-prc9zyaz83kpbrx7xns4hz.streamlit.app/))
+👉 [Launch on Streamlit](https://mental-health-risk-detector-prc9zyaz83kpbrx7xns4hz.streamlit.app/)
 
----
 
